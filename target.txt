@@ -1,0 +1,15 @@
+<--start
+#Programming and indentation starts from here
+#{
+    
+    start_here:
+    #{
+        meh
+        no kittehz lowed on
+        tablez
+    #}
+    
+#}
+#Each opening brace ({) must have a closing brace (}) associated with it.
+#Otherwise it fails to properly indent the code.
+end-->
